@@ -5,11 +5,7 @@ import android.app.Activity;
 /**
  * Created by user on 3/23/16.
  */
-public class BaseNavigation {
-    public void login(Activity activity){
-
-    };
-    public void registerClicked(Activity activity){
-
-    };
+public abstract class BaseNavigation {
+    public abstract void login(Activity activity);
+    public abstract void registerClicked(Activity activity);
 }

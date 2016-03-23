@@ -5,7 +5,7 @@ import android.widget.Toast;
 
 import vinasource.com.strategydemo.activity.BaseActivity;
 import vinasource.com.strategydemo.basemodules.colleges.VerifyEmailActivity;
-import vinasource.com.strategydemo.navigation.base.BaseNavigation;
+import vinasource.com.strategydemo.basenavigation.BaseNavigation;
 
 /**
  * Created by user on 3/23/16.

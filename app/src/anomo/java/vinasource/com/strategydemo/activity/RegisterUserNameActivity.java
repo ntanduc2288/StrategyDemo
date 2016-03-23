@@ -19,9 +19,10 @@ public class RegisterUserNameActivity extends RegisterUsernameBaseActivity {
     @Override
     public void setupViews() {
         setupUserNamePasswordView();
-
         findViewById(R.id.button_next).setOnClickListener(this);
 
+
+//        BaseNavigation baseNavigation = new BaseNavigation();
     }
 
 
